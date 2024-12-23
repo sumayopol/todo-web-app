@@ -17,3 +17,5 @@ def write_todos(todos_arg, filepath=FILEPATH):
 if __name__ == "__main__": #this is only implemented if function is run from the inside, but not when called
     print("Hello World")
     print(get_todos( ))
+    #  Local URL: http://localhost:8501
+    #   Network URL: http://192.168.68.100:8501
